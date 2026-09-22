@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6ab1cc1f630bc914dadffa3c"
+  },
+  "nome": "Luan Araujo",
+  "email": "luan@email.com",
+  "avaliacoes": [
+    {
+      "musica_id": {
+        "$oid": "6ab1c816630bc914dadffa29"
+      },
+      "nota": 5,
+      "comentario": "Uma música clássica e marcante."
+    },
+    {
+      "musica_id": {
+        "$oid": "6ab1c834630bc914dadffa2b"
+      },
+      "nota": 5,
+      "comentario": "Excelente música e produção."
+    }
+  ]
+}]

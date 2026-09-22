@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6ab1cd03630bc914dadffa40"
+  },
+  "usuario_id": {
+    "$oid": "6ab1cc1f630bc914dadffa3c"
+  },
+  "nome": "Minhas músicas favoritas",
+  "musicas": [
+    {
+      "musica_id": {
+        "$oid": "6ab1c816630bc914dadffa29"
+      },
+      "titulo": "Imagine",
+      "ano": 1971
+    },
+    {
+      "musica_id": {
+        "$oid": "6ab1c834630bc914dadffa2b"
+      },
+      "titulo": "Billie Jean",
+      "ano": 1982
+    }
+  ]
+}]

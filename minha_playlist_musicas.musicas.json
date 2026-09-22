@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6ab1c816630bc914dadffa29"
+  },
+  "titulo": "Imagine",
+  "ano": 1971,
+  "artista": "John Lennon",
+  "album": "Imagine",
+  "generos": [
+    "Rock",
+    "Pop"
+  ],
+  "compositores": [
+    "John Lennon"
+  ],
+  "duracao_segundos": 183,
+  "avaliacao_media": 4.8
+},
+{
+  "_id": {
+    "$oid": "6ab1c834630bc914dadffa2b"
+  },
+  "titulo": "Billie Jean",
+  "ano": 1982,
+  "artista": "Michael Jackson",
+  "album": "Thriller",
+  "generos": [
+    "Pop",
+    "Funk"
+  ],
+  "compositores": [
+    "Michael Jackson"
+  ],
+  "duracao_segundos": 294,
+  "avaliacao_media": 4.9
+}]

@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6ab1cdad630bc914dadffa43"
+  },
+  "usuario_id": {
+    "$oid": "6ab1cc1f630bc914dadffa3c"
+  },
+  "token_autenticacao": "xyz789abc123",
+  "dispositivo": "Celular Android",
+  "criado_em": {
+    "$date": "2026-09-21T21:00:00.000Z"
+  },
+  "expira_em": {
+    "$date": "2026-09-22T23:59:00.000Z"
+  }
+}]
